@@ -3,9 +3,9 @@
 papers and codes on data assimilation and weather forecasting based on AI methods, and their commonly used datasets.
 ## Table of Contents
 
-[Data Assimilation](#data-assimilation)
+[Data Assimilation](# data-assimilation)
 
-[Weather Forecasting](#weather-forecasting)
+[Weather Forecasting](# weather-forecasting)
 
 ## Data Assimilation
 
