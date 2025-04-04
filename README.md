@@ -35,6 +35,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
+|Integrating data assimilation with structurally equivariant spatial transformers: Physically consistent data-driven models for weather forecasting [PDF](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_37.pdf) | NIPS 2020 | ERA5 |-|
+
 ## Weather Forecasting
 
 ### 2025
