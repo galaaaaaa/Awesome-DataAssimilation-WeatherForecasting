@@ -51,6 +51,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
 | CLIMODE: CLIMATE AND WEATHER FORECASTING WITH PHYSICS-INFORMED NEURAL ODES [PDF](https://arxiv.org/abs/2404.10024) | ICLR 2024 | ERA5 | [CODE](https://github.com/Aalto-QuML/ClimODE) |
+| Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [PDF](https://arxiv.org/abs/2405.13796) | NeurIPS 2024 | ERA5 | [CODE](https://github.com/black-yt/WeatherGFT) |
+
+
 
 ### 2023
 
