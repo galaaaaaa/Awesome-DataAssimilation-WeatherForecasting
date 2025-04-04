@@ -20,20 +20,21 @@ papers and codes on data assimilation and weather forecasting based on AI method
 ### 2024
 
 | Title | Venue | Dataset | CODE |
-|-------|-------|---------|------|
-| FNP: Fourier Neural Processes for Arbitrary-Resolution Data Assimilation [PDF](https://papers.nips.cc/paper_files/paper/2024/file/f93d03f2ad836c815b7ca60dfbe23bf8-Paper-Conference.pdf) | NIPS 2024 | ERA5 |  [CODE](https://github.com/OpenEarthLab/FNP) |
+|:-------|:-------:|:---------:|:------:|
+| FNP: Fourier Neural Processes for Arbitrary-Resolution Data Assimilation [PDF](https://papers.nips.cc/paper_files/paper/2024/file/f93d03f2ad836c815b7ca60dfbe23bf8-Paper-Conference.pdf) | NIPS 2024 | ERA5 |  [Code](https://github.com/OpenEarthLab/FNP) |
 
 
 ### 2023
 
 | Title | Venue | Dataset | CODE |
-|-------|-------|---------|------|
+|:-------|:-------:|:---------:|:------:|
+| Score-based Data Assimilation [PDF](https://papers.nips.cc/paper_files/paper/2023/file/7f7fa581cc8a1970a4332920cdf87395-Paper-Conference.pdf) | NIPS 2023 | - | [Code](https://github.com/francois-rozet/sda) |
 
 
 ### Earlier
 
 | Title | Venue | Dataset | CODE |
-|-------|-------|---------|------|
+|:-------|:-------:|:---------:|:------:|
 ## Weather Forecasting
 
 ### 2025
@@ -48,17 +49,17 @@ papers and codes on data assimilation and weather forecasting based on AI method
 ### 2024
 
 | Title | Venue | Dataset | CODE |
-|-------|-------|---------|------|
+|:-------|:-------:|:---------:|:------:|
 | CLIMODE: CLIMATE AND WEATHER FORECASTING WITH PHYSICS-INFORMED NEURAL ODES [PDF](https://arxiv.org/abs/2404.10024) | ICLR 2024 | ERA5 | [CODE](https://github.com/Aalto-QuML/ClimODE) |
 
 ### 2023
 
 | Title | Venue | Dataset | CODE |
-|-------|-------|---------|------|
+|:-------|:-------:|:---------:|:------:|
 
 
 ### Earlier
 
 | Title | Venue | Dataset | CODE |
-|-------|-------|---------|------|
+|:-------|:-------:|:---------:|:------:|
 
