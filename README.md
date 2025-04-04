@@ -39,6 +39,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |:-------|:-------:|:---------:|:------:|
 | Learning to Assimilate in Chaotic Dynamical Systems[PDF](https://proceedings.neurips.cc/paper_files/paper/2021/file/65cc2c8205a05d7379fa3a6386f710e1-Paper.pdf) [PDF- Supplemental](https://papers.neurips.cc/paper_files/paper/2021/file/65cc2c8205a05d7379fa3a6386f710e1-Supplemental.pdf) | NIPS 2021 | - | [Code](https://github.com/mikemccabe210/amortizedassimilation) |
 |Integrating data assimilation with structurally equivariant spatial transformers: Physically consistent data-driven models for weather forecasting [PDF](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_37.pdf) | NIPS 2020 | ERA5 |-|
+| Completing physics-based models by learning hidden dynamics through data assimilation [PDF](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_30.pdf) | NIPS 2020 | - | - |
 
 ## Weather Forecasting
 
