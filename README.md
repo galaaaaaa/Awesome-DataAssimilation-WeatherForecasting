@@ -29,6 +29,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
 | Score-based Data Assimilation [PDF](https://papers.nips.cc/paper_files/paper/2023/file/7f7fa581cc8a1970a4332920cdf87395-Paper-Conference.pdf) | NIPS 2023 | - | [Code](https://github.com/francois-rozet/sda) |
+| Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review [PDF](https://arxiv.org/pdf/2303.10462) | IEEE/CAA Journal of Automatica Sinica | - | - |
 
 
 ### Earlier
