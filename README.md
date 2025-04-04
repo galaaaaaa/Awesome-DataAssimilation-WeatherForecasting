@@ -22,6 +22,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
 | FNP: Fourier Neural Processes for Arbitrary-Resolution Data Assimilation [PDF](https://papers.nips.cc/paper_files/paper/2024/file/f93d03f2ad836c815b7ca60dfbe23bf8-Paper-Conference.pdf) | NIPS 2024 | ERA5 |  [Code](https://github.com/OpenEarthLab/FNP) |
+| On conditional diffusion models for PDE simulations [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/2974844555dc383ea16c5f35833c7a57-Paper-Conference.pdf) | NIPS 2024 | Kuramoto-Sivashinsky、Kolmogorov、Burgers  | [Code](https://github.com/cambridge-mlg/pdediff) |
 
 
 ### 2023
