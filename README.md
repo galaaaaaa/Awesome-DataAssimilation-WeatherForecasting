@@ -31,15 +31,17 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |:-------|:-------:|:---------:|:------:|
 | Score-based Data Assimilation [PDF](https://papers.nips.cc/paper_files/paper/2023/file/7f7fa581cc8a1970a4332920cdf87395-Paper-Conference.pdf) | NIPS 2023 | - | [Code](https://github.com/francois-rozet/sda) |
 | Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review [PDF](https://arxiv.org/pdf/2303.10462) | IEEE/CAA Journal of Automatica Sinica | - | - |
+| Data Assimilation using ERA5, ASOS, and the U-STN model for Weather Forecasting over the UK [PDF](https://arxiv.org/pdf/2401.07604) | NIPS 2023 | ERA5、ASOS | [Code](https://github.com/acse-ww721/DA_ML_ERA5_ASOS_Weather_Forecasting_UK) |
 
 
 ### Earlier
 
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
-| Learning to Assimilate in Chaotic Dynamical Systems[PDF](https://proceedings.neurips.cc/paper_files/paper/2021/file/65cc2c8205a05d7379fa3a6386f710e1-Paper.pdf) [PDF- Supplemental](https://papers.neurips.cc/paper_files/paper/2021/file/65cc2c8205a05d7379fa3a6386f710e1-Supplemental.pdf) | NIPS 2021 | - | [Code](https://github.com/mikemccabe210/amortizedassimilation) |
+| Learning to Assimilate in Chaotic Dynamical Systems [PDF](https://proceedings.neurips.cc/paper_files/paper/2021/file/65cc2c8205a05d7379fa3a6386f710e1-Paper.pdf) [PDF- Supplemental](https://papers.neurips.cc/paper_files/paper/2021/file/65cc2c8205a05d7379fa3a6386f710e1-Supplemental.pdf) | NIPS 2021 | - | [Code](https://github.com/mikemccabe210/amortizedassimilation) |
 |Integrating data assimilation with structurally equivariant spatial transformers: Physically consistent data-driven models for weather forecasting [PDF](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_37.pdf) | NIPS 2020 | ERA5 |-|
 | Completing physics-based models by learning hidden dynamics through data assimilation [PDF](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_30.pdf) | NIPS 2020 | - | - |
+| Towards physically consistent data-driven weather forecasting: Integrating data assimilation with equivariance-preserving deep spatial transformers [PDF](https://gmd.copernicus.org/articles/15/2221/2022/gmd-15-2221-2022.pdf) | Geoscientific Model Development(2022) | ERA5 | [Code](https://github.com/ashesh6810/DDWP-DA) |
 
 ## Weather Forecasting
 
@@ -58,7 +60,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |:-------|:-------:|:---------:|:------:|
 | CLIMODE: CLIMATE AND WEATHER FORECASTING WITH PHYSICS-INFORMED NEURAL ODES [PDF](https://arxiv.org/abs/2404.10024) | ICLR 2024 | ERA5 | [CODE](https://github.com/Aalto-QuML/ClimODE) |
 | Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [PDF](https://arxiv.org/abs/2405.13796) | NeurIPS 2024 | ERA5 | [CODE](https://github.com/black-yt/WeatherGFT) |
-
+| WeatherBench 2: A benchmark for the next generation of data-driven global weather models[PDF](https://arxiv.org/pdf/2308.15560) | Journal of Advances in Modeling Earth Systems | several: [Intro.](https://weatherbench2.readthedocs.io/en/latest/data-guide.html)、[Google Cloud bucket](https://console.cloud.google.com/storage/browser/weatherbench2) | [Code](https://github.com/google-research/weatherbench2)、[official website](https://sites.research.google/weatherbench/) |
 
 
 ### 2023
