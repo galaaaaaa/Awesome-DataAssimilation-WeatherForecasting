@@ -15,6 +15,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |:-------|:-------:|:---------:|:------:|
 | VAE-Var: Variational-Autoencoder-Enhanced Variational Assimilation [PDF](https://arxiv.org/abs/2405.13711) | ICLR 2025 | Lorenz 63、Lorenz 96 | - |
 | LATENT-ENSF: A LATENT ENSEMBLE SCORE FILTER FOR HIGH-DIMENSIONAL DATA ASSIMILATION WITH SPARSE OBSERVATION DATA [PDF](https://arxiv.org/abs/2409.00127) | ICLR 2025 | SWE、ERA5 | - |
+|Deep Bayesian Filter for Bayes-faithful Data Assimilation [PDF](https://arxiv.org/abs/2405.18674)|ICML 2025|moving MNIST、double pendulum、Lorenz96| - |
+|Tensor-Var: Efficient Four-Dimensional Variational Data Assimilation [PDF](https://arxiv.org/abs/2501.13312)|ICML 2025|WeatherBench2|[Code](https://github.com/yyimingucl/TensorVar)|
 
 
 ### 2024
@@ -51,6 +53,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |:-------|:-------:|:---------:|:------:|
 | HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting [PDF](https://arxiv.org/abs/2409.18885) | ICLR 2025 | - | [CODE](https://github.com/HuskyNian/HR-Extreme) |
 | Continuous Ensemble Weather Forecasting with Diffusion models [PDF](https://arxiv.org/abs/2410.05431) | ICLR 2025 | - | [CODE](https://github.com/martinandrae/Continuous-Ensemble-Forecasting) |
+|Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function[PDF](https://arxiv.org/abs/2501.19374#) | ICML 2025 | HRES | - |
+|OneForecast: A Universal Framework for Global and Regional Weather Forecasting[PDF](https://arxiv.org/abs/2502.00338) | ICML 2025 | weatherbench | [CODE](https://github.com/YuanGao-YG/OneForecast) |
 
 
 
