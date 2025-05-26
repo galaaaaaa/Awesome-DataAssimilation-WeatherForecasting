@@ -17,6 +17,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | LATENT-ENSF: A LATENT ENSEMBLE SCORE FILTER FOR HIGH-DIMENSIONAL DATA ASSIMILATION WITH SPARSE OBSERVATION DATA [PDF](https://arxiv.org/abs/2409.00127) | ICLR 2025 | SWE、ERA5 | - |
 |Deep Bayesian Filter for Bayes-faithful Data Assimilation [PDF](https://arxiv.org/abs/2405.18674)|ICML 2025|moving MNIST、double pendulum、Lorenz96| - |
 |Tensor-Var: Efficient Four-Dimensional Variational Data Assimilation [PDF](https://arxiv.org/abs/2501.13312)|ICML 2025|WeatherBench2|[Code](https://github.com/yyimingucl/TensorVar)|
+|FuXi-DA: a generalized deep learning data assimilation framework for assimilating satellite observations [PDF](https://www.nature.com/articles/s41612-025-01039-3)|nature npj 2025|ERA5|[Code](https://github.com/xuxiaoze/FuXi-DA)|
+|Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales [PDF](https://arxiv.org/abs/2406.16947)|JAMES 2025|HRRR、ISD|-|
 
 
 ### 2024
