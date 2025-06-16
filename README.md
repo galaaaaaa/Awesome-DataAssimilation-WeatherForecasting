@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9a78b664-395e-4028-ae44-0230cb0dc1d5)![image](https://github.com/user-attachments/assets/4c8e2fe8-dc35-4d25-ba72-fb207cbb0988)# Awesome Data Assimilation and Weather Forecasting
+# Awesome Data Assimilation and Weather Forecasting
 
 papers and codes on data assimilation and weather forecasting based on AI methods, and their commonly used datasets.
 ## Table of Contents
