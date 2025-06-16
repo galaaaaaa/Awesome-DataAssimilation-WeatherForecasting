@@ -1,4 +1,4 @@
-# Awesome Data Assimilation and Weather Forecasting
+![image](https://github.com/user-attachments/assets/9a78b664-395e-4028-ae44-0230cb0dc1d5)![image](https://github.com/user-attachments/assets/4c8e2fe8-dc35-4d25-ba72-fb207cbb0988)# Awesome Data Assimilation and Weather Forecasting
 
 papers and codes on data assimilation and weather forecasting based on AI methods, and their commonly used datasets.
 ## Table of Contents
@@ -15,10 +15,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |:-------|:-------:|:---------:|:------:|
 | VAE-Var: Variational-Autoencoder-Enhanced Variational Assimilation [PDF](https://arxiv.org/abs/2405.13711) | ICLR 2025 | Lorenz 63、Lorenz 96 | - |
 | LATENT-ENSF: A LATENT ENSEMBLE SCORE FILTER FOR HIGH-DIMENSIONAL DATA ASSIMILATION WITH SPARSE OBSERVATION DATA [PDF](https://arxiv.org/abs/2409.00127) | ICLR 2025 | SWE、ERA5 | - |
-|Deep Bayesian Filter for Bayes-faithful Data Assimilation [PDF](https://arxiv.org/abs/2405.18674)|ICML 2025|moving MNIST、double pendulum、Lorenz96| - |
-|Tensor-Var: Efficient Four-Dimensional Variational Data Assimilation [PDF](https://arxiv.org/abs/2501.13312)|ICML 2025|WeatherBench2|[Code](https://github.com/yyimingucl/TensorVar)|
-|FuXi-DA: a generalized deep learning data assimilation framework for assimilating satellite observations [PDF](https://www.nature.com/articles/s41612-025-01039-3)|nature npj 2025|ERA5|[Code](https://github.com/xuxiaoze/FuXi-DA)|
-|Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales [PDF](https://arxiv.org/abs/2406.16947)|JAMES 2025|HRRR、ISD|-|
+| Deep Bayesian Filter for Bayes-faithful Data Assimilation [PDF](https://arxiv.org/abs/2405.18674)|ICML 2025|moving MNIST、double pendulum、Lorenz96| - |
+| Tensor-Var: Efficient Four-Dimensional Variational Data Assimilation [PDF](https://arxiv.org/abs/2501.13312)|ICML 2025|WeatherBench2|[Code](https://github.com/yyimingucl/TensorVar)|
+| FuXi-DA: a generalized deep learning data assimilation framework for assimilating satellite observations [PDF](https://www.nature.com/articles/s41612-025-01039-3)|nature npj 2025|ERA5|[Code](https://github.com/xuxiaoze/FuXi-DA)|
 
 
 ### 2024
@@ -28,6 +27,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | FNP: Fourier Neural Processes for Arbitrary-Resolution Data Assimilation [PDF](https://papers.nips.cc/paper_files/paper/2024/file/f93d03f2ad836c815b7ca60dfbe23bf8-Paper-Conference.pdf) | NIPS 2024 | ERA5 |  [Code](https://github.com/OpenEarthLab/FNP) |
 | On conditional diffusion models for PDE simulations [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/2974844555dc383ea16c5f35833c7a57-Paper-Conference.pdf) | NIPS 2024 | Kuramoto-Sivashinsky、Kolmogorov、Burgers  | [Code](https://github.com/cambridge-mlg/pdediff) |
 | Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations [PDF](https://arxiv.org/abs/2404.08522) | -- | ERA5 | - |
+| Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales [PDF](https://arxiv.org/abs/2406.16947)|JAMES 2024|HRRR、ISD|-|
+
 
 ### 2023
 
@@ -57,6 +58,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Continuous Ensemble Weather Forecasting with Diffusion models [PDF](https://arxiv.org/abs/2410.05431) | ICLR 2025 | - | [CODE](https://github.com/martinandrae/Continuous-Ensemble-Forecasting) |
 |Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function[PDF](https://arxiv.org/abs/2501.19374#) | ICML 2025 | HRES | - |
 |OneForecast: A Universal Framework for Global and Regional Weather Forecasting[PDF](https://arxiv.org/abs/2502.00338) | ICML 2025 | weatherbench | [CODE](https://github.com/YuanGao-YG/OneForecast) |
+|An artificial intelligence-based limited area model for forecasting of surface meteorological variables[PDF](https://www.nature.com/articles/s43247-025-02347-5) | (Nature 子刊)communications earth & environment | HRRR/HadISD | [CODE](https://github.com/PaddlePaddle/PaddleScience/tree/develop/examples/yinglong) |
+| Physics-Guided Learning of Meteorological Dynamics[PDF](https://arxiv.org/abs/2505.14555) | KKD | HRES/ERA5/WeatherBench | [Code](https://github.com/yingtaoluo/PhyDL-NWP) |
+
 
 
 
@@ -67,6 +71,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | CLIMODE: CLIMATE AND WEATHER FORECASTING WITH PHYSICS-INFORMED NEURAL ODES [PDF](https://arxiv.org/abs/2404.10024) | ICLR 2024 | ERA5 | [CODE](https://github.com/Aalto-QuML/ClimODE) |
 | Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [PDF](https://arxiv.org/abs/2405.13796) | NeurIPS 2024 | ERA5 | [CODE](https://github.com/black-yt/WeatherGFT) |
 | WeatherBench 2: A benchmark for the next generation of data-driven global weather models[PDF](https://arxiv.org/pdf/2308.15560) | Journal of Advances in Modeling Earth Systems | several: [Intro.](https://weatherbench2.readthedocs.io/en/latest/data-guide.html)、[Google Cloud bucket](https://console.cloud.google.com/storage/browser/weatherbench2) | [Code](https://github.com/google-research/weatherbench2)、[official website](https://sites.research.google/weatherbench/) |
+| Scaling transformer neural networks for skillful  and reliable medium-range weather forecasting [PDF](https://arxiv.org/abs/2312.03876)|NIPS 2024|WeatherBench 2|-|
 
 
 ### 2023
