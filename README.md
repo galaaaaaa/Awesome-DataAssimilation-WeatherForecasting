@@ -60,6 +60,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |OneForecast: A Universal Framework for Global and Regional Weather Forecasting[PDF](https://arxiv.org/abs/2502.00338) | ICML 2025 | weatherbench | [CODE](https://github.com/YuanGao-YG/OneForecast) |
 |An artificial intelligence-based limited area model for forecasting of surface meteorological variables[PDF](https://www.nature.com/articles/s43247-025-02347-5) | (Nature 子刊)communications earth & environment | HRRR/HadISD | [CODE](https://github.com/PaddlePaddle/PaddleScience/tree/develop/examples/yinglong) |
 | Physics-Guided Learning of Meteorological Dynamics[PDF](https://arxiv.org/abs/2505.14555) | KKD | HRES/ERA5/WeatherBench | [Code](https://github.com/yingtaoluo/PhyDL-NWP) |
+| End-to-end data-driven weather prediction[PDF](https://www.nature.com/articles/s41586-025-08897-0) | Nature | ERA5 | [Code](https://github.com/annavaughan/aardvark-weather-public) |
 
 
 
