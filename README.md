@@ -54,6 +54,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
+| A foundation model for the Earth system [PDF](https://www.nature.com/articles/s41586-025-09005-y) | Nature | HRES/ERA5/... | [CODE](https://microsoft.github.io/aurora/intro.html) |
+| LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting [PDF](https://arxiv.org/abs/2506.09193) | ArXiv | ERA5 | [CODE](https://github.com/tonyzyl/ladcast) |
 | HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting [PDF](https://arxiv.org/abs/2409.18885) | ICLR 2025 | - | [CODE](https://github.com/HuskyNian/HR-Extreme) |
 | Continuous Ensemble Weather Forecasting with Diffusion models [PDF](https://arxiv.org/abs/2410.05431) | ICLR 2025 | - | [CODE](https://github.com/martinandrae/Continuous-Ensemble-Forecasting) |
 |Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function[PDF](https://arxiv.org/abs/2501.19374#) | ICML 2025 | HRES | - |
