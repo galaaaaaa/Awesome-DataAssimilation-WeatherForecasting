@@ -17,7 +17,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | LATENT-ENSF: A LATENT ENSEMBLE SCORE FILTER FOR HIGH-DIMENSIONAL DATA ASSIMILATION WITH SPARSE OBSERVATION DATA [PDF](https://arxiv.org/abs/2409.00127) | ICLR 2025 | SWE、ERA5 | - |
 | Deep Bayesian Filter for Bayes-faithful Data Assimilation [PDF](https://arxiv.org/abs/2405.18674)|ICML 2025|moving MNIST、double pendulum、Lorenz96| - |
 | Tensor-Var: Efficient Four-Dimensional Variational Data Assimilation [PDF](https://arxiv.org/abs/2501.13312)|ICML 2025|WeatherBench2|[Code](https://github.com/yyimingucl/TensorVar)|
-| FuXi-DA: a generalized deep learning data assimilation framework for assimilating satellite observations [PDF](https://www.nature.com/articles/s41612-025-01039-3)|nature npj 2025|ERA5|[Code](https://github.com/xuxiaoze/FuXi-DA)|
+| FuXi-DA: a generalized deep learning data assimilation framework for assimilating satellite observations [PDF](https://www.nature.com/articles/s41612-025-01039-3)|nature npj 2025|ERA5|[CODE](https://github.com/xuxiaoze/FuXi-DA)|
 
 
 ### 2024
@@ -82,6 +82,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
 |FuXi: A cascade machine learning forecasting system for 15-day global weather forecast [PDF](https://arxiv.org/abs/2306.12873) | npj 2023 | ERA5、HREs-dc0、ENS-fc0 | [CODE](https://github.com/tpys/FuXi)  |
+| FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators[PDF](https://dl.acm.org/doi/10.1145/3592979.3593412) | ICLR 2023 | ERA5 | [CODE](https://github.com/NVlabs/FourCastNet) |
 
 ### Earlier
 
