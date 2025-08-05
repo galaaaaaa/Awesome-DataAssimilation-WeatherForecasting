@@ -28,7 +28,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | On conditional diffusion models for PDE simulations [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/2974844555dc383ea16c5f35833c7a57-Paper-Conference.pdf) | NIPS 2024 | Kuramoto-Sivashinsky、Kolmogorov、Burgers  | [Code](https://github.com/cambridge-mlg/pdediff) |
 | Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations [PDF](https://arxiv.org/abs/2404.08522) | -- | ERA5 | - |
 | Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales [PDF](https://arxiv.org/abs/2406.16947)|JAMES 2024|HRRR、ISD|-|
-
+| FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation [PDF](https://arxiv.org/abs/2312.12455) | ICML 2024 | ERA5  | [Code](https://github.com/OpenEarthLab/FengWu-4DVar) |
 
 ### 2023
 
@@ -63,7 +63,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |An artificial intelligence-based limited area model for forecasting of surface meteorological variables[PDF](https://www.nature.com/articles/s43247-025-02347-5) | (Nature 子刊)communications earth & environment | HRRR/HadISD | [CODE](https://github.com/PaddlePaddle/PaddleScience/tree/develop/examples/yinglong) |
 | Physics-Guided Learning of Meteorological Dynamics[PDF](https://arxiv.org/abs/2505.14555) | KKD | HRES/ERA5/WeatherBench | [Code](https://github.com/yingtaoluo/PhyDL-NWP) |
 | End-to-end data-driven weather prediction[PDF](https://www.nature.com/articles/s41586-025-08897-0) | Nature | ERA5 | [Code](https://github.com/annavaughan/aardvark-weather-public) |
-
+| The operational medium-range deterministic weather forecasting can be extended beyond a 10-day lead time[PDF](https://www.nature.com/articles/s43247-025-02502-y) | Nature | ERA5 | [Code](https://github.com/OpenEarthLab/FengWu) |
 
 
 
@@ -83,7 +83,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 |:-------|:-------:|:---------:|:------:|
 |FuXi: A cascade machine learning forecasting system for 15-day global weather forecast [PDF](https://arxiv.org/abs/2306.12873) | npj 2023 | ERA5、HREs-dc0、ENS-fc0 | [CODE](https://github.com/tpys/FuXi)  |
 | FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators[PDF](https://dl.acm.org/doi/10.1145/3592979.3593412) | ICLR 2023 | ERA5 | [CODE](https://github.com/NVlabs/FourCastNet) |
-
+| SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation[PDF](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211) | JAMES | WeatherBench | [CODE](https://github.com/tpys/wwprediction) |
+| SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25105) | AAAI 2023 | ERA5 |-|
+| (Pangu-Weather) Accurate medium-range global weather forecasting with 3D neural networks[PDF](https://www.nature.com/articles/s41586-023-06185-3) | Nature 2023 | ERA5 | [CODE](https://github.com/198808xc/Pangu-Weather) |
 ### Earlier
 
 | Title | Venue | Dataset | CODE |
