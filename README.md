@@ -76,6 +76,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | WeatherBench 2: A benchmark for the next generation of data-driven global weather models[PDF](https://arxiv.org/pdf/2308.15560) | Journal of Advances in Modeling Earth Systems | several: [Intro.](https://weatherbench2.readthedocs.io/en/latest/data-guide.html)、[Google Cloud bucket](https://console.cloud.google.com/storage/browser/weatherbench2) | [Code](https://github.com/google-research/weatherbench2)、[official website](https://sites.research.google/weatherbench/) |
 | Scaling transformer neural networks for skillful  and reliable medium-range weather forecasting [PDF](https://arxiv.org/abs/2312.03876)|NIPS 2024|WeatherBench 2|[CODE](https://github.com/tung-nd/stormer)|
 | HEAL-ViT: Vision Transformers on a spherical mesh for medium-range weather forecasting [PDF](https://arxiv.org/abs/2403.17016)|arXiv 2024|ERA5|-|
+| (PFformer) PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting[PDF](https://ieeexplore.ieee.org/abstract/document/10678751) | IEEE Access 2024 | https://rp5.ru/ | - |
 
 ### 2023
 
@@ -92,3 +93,6 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
 | (GnnWeather) Forecasting Global Weather with Graph Neural Networks[PDF](https://arxiv.org/abs/2202.07575) | arXiv 2022 | ERA5 | [CODE](https://github.com/rkeisler/keisler22-predict?tab=readme-ov-file) |
+| (SwinUnet)Spatiotemporal Vision Transformer for Short Time Weather Forecasting[PDF](https://sci-hub.se/10.1109/BigData52589.2021.9671442) | IEEE BigData 2021 | Weather4cast | [Code](https://github.com/bojesomo/Weather4Cast2021-SwinUNet3D) |
+| (Earthformer) Earthformer: Exploring Space-Time Transformers for Earth System Forecasting[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html) | NeurIPS 2022 | MovingMNIST,N -body MNIST  | [Code](https://proceedings.neurips.cc/paper_files/paper/2022/file/a2affd71d15e8fedffe18d0219f4837a-Supplemental-Conference.zip) |
+| (Rainformer)Rainformer: Features Extraction Balanced Network for Radar-Based Precipitation Nowcasting[PDF](https://ieeexplore.ieee.org/document/9743916) | IEEE Geoscience and Remote Sensing Letters 2022 | KNMI | [Code](https://github.com/Zjut-MultimediaPlus/Rainformer?tab=readme-ov-file) |
