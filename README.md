@@ -64,7 +64,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Physics-Guided Learning of Meteorological Dynamics[PDF](https://arxiv.org/abs/2505.14555) | KKD | HRES/ERA5/WeatherBench | [Code](https://github.com/yingtaoluo/PhyDL-NWP) |
 | End-to-end data-driven weather prediction[PDF](https://www.nature.com/articles/s41586-025-08897-0) | Nature | ERA5 | [Code](https://github.com/annavaughan/aardvark-weather-public) |
 | The operational medium-range deterministic weather forecasting can be extended beyond a 10-day lead time[PDF](https://www.nature.com/articles/s43247-025-02502-y) | Nature | ERA5 | [Code](https://github.com/OpenEarthLab/FengWu) |
-
+| (TianXing) linear complexity transformer model with explicit attention decay for global weather forecasting[PDF](https://link.springer.com/article/10.1007/s00376-024-3313-9) | Advances in Atmospheric Sciences | ERA5 |-|
 
 
 ### 2024
@@ -74,8 +74,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | CLIMODE: CLIMATE AND WEATHER FORECASTING WITH PHYSICS-INFORMED NEURAL ODES [PDF](https://arxiv.org/abs/2404.10024) | ICLR 2024 | ERA5 | [CODE](https://github.com/Aalto-QuML/ClimODE) |
 | Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [PDF](https://arxiv.org/abs/2405.13796) | NeurIPS 2024 | ERA5 | [CODE](https://github.com/black-yt/WeatherGFT) |
 | WeatherBench 2: A benchmark for the next generation of data-driven global weather models[PDF](https://arxiv.org/pdf/2308.15560) | Journal of Advances in Modeling Earth Systems | several: [Intro.](https://weatherbench2.readthedocs.io/en/latest/data-guide.html)、[Google Cloud bucket](https://console.cloud.google.com/storage/browser/weatherbench2) | [Code](https://github.com/google-research/weatherbench2)、[official website](https://sites.research.google/weatherbench/) |
-| Scaling transformer neural networks for skillful  and reliable medium-range weather forecasting [PDF](https://arxiv.org/abs/2312.03876)|NIPS 2024|WeatherBench 2|-|
-
+| Scaling transformer neural networks for skillful  and reliable medium-range weather forecasting [PDF](https://arxiv.org/abs/2312.03876)|NIPS 2024|WeatherBench 2|[CODE](https://github.com/tung-nd/stormer)|
+| HEAL-ViT: Vision Transformers on a spherical mesh for medium-range weather forecasting [PDF](https://arxiv.org/abs/2403.17016)|arXiv 2024|ERA5|-|
 
 ### 2023
 
@@ -86,8 +86,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation[PDF](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211) | JAMES | WeatherBench | [CODE](https://github.com/tpys/wwprediction) |
 | SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25105) | AAAI 2023 | ERA5 |-|
 | (Pangu-Weather) Accurate medium-range global weather forecasting with 3D neural networks[PDF](https://www.nature.com/articles/s41586-023-06185-3) | Nature 2023 | ERA5 | [CODE](https://github.com/198808xc/Pangu-Weather) |
+| (GraphCast) Graphcast: Learning skillful medium-range global weather forecasting[PDF](https://www.science.org/doi/10.1126/science.adi2336) | Science 2023 | ERA5 | [CODE](https://github.com/openclimatefix/graph_weather) |
 ### Earlier
 
 | Title | Venue | Dataset | CODE |
 |:-------|:-------:|:---------:|:------:|
-
+| (GnnWeather) Forecasting Global Weather with Graph Neural Networks[PDF](https://arxiv.org/abs/2202.07575) | arXiv 2022 | ERA5 | [CODE](https://github.com/rkeisler/keisler22-predict?tab=readme-ov-file) |
