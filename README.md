@@ -29,6 +29,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations [PDF](https://arxiv.org/abs/2404.08522) | -- | ERA5 | - |
 | Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales [PDF](https://arxiv.org/abs/2406.16947)|JAMES 2024|HRRR、ISD|-|
 | FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation [PDF](https://arxiv.org/abs/2312.12455) | ICML 2024 | ERA5  | [Code](https://github.com/OpenEarthLab/FengWu-4DVar) |
+| (U-STN) Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based u-net in a case study with EAR5[PDF](https://gmd.copernicus.org/articles/15/2221/2022/) | Geoscientific Model Development 2024 | ERA5 | [Code](https://zenodo.org/records/6112374) |
 
 ### 2023
 
@@ -77,6 +78,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Scaling transformer neural networks for skillful  and reliable medium-range weather forecasting [PDF](https://arxiv.org/abs/2312.03876)|NIPS 2024|WeatherBench 2|[CODE](https://github.com/tung-nd/stormer)|
 | HEAL-ViT: Vision Transformers on a spherical mesh for medium-range weather forecasting [PDF](https://arxiv.org/abs/2403.17016)|arXiv 2024|ERA5|-|
 | (PFformer) PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting[PDF](https://ieeexplore.ieee.org/abstract/document/10678751) | IEEE Access 2024 | https://rp5.ru/ | - |
+| (OMG-HD) OMG-HD: A high-resolution ai weather model for end-to-end forecasts from observations[PDF](https://arxiv.org/pdf/2412.18239) | arXiv 2024 | RTMA | - |
+
 
 ### 2023
 
