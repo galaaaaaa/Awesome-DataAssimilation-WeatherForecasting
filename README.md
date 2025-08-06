@@ -104,6 +104,10 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (ClimaX) ClimaX: A foundation model for weather and climate [PDF](https://arxiv.org/abs/2301.10343)|ICML 2023|ERA5|[CODE](https://github.com/microsoft/ClimaX)|
 | W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting [PDF](https://arxiv.org/abs/2304.08754)|arXiv 2023|ERA5|[CODE](https://github.com/Gufrannn/W-MAE)|
 | (HiSTGNN) HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting Information[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011659) | Information Sciences 2023 | WD | [Code](https://github.com/mb-Ma/HiSTGNN) |
+| (MetNet-3) Deep Learning for Day Forecasts from Sparse Observations[PDF](https://arxiv.org/abs/2306.06079) | arXiv 2023 | - | - |
+| (PredRNN) PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning[PDF](https://ieeexplore.ieee.org/abstract/document/9749915) | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 2023 | Moving MNIST、KTH | [Code](https://github.com/thuml/predrnn-pytorch) |
+| (MM-RNN) MM-RNN: A Multimodal RNN for Precipitation Nowcasting[PDF](https://ieeexplore.ieee.org/abstract/document/10092888) | IEEE Transactions on Geoscience and Remote Sensing 2023 | MeteoNet、RAIN-F | - |
+
 
 
 ### Earlier
@@ -114,3 +118,5 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (SwinUnet)Spatiotemporal Vision Transformer for Short Time Weather Forecasting[PDF](https://sci-hub.se/10.1109/BigData52589.2021.9671442) | IEEE BigData 2021 | Weather4cast | [Code](https://github.com/bojesomo/Weather4Cast2021-SwinUNet3D) |
 | (Earthformer) Earthformer: Exploring Space-Time Transformers for Earth System Forecasting[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html) | NeurIPS 2022 | MovingMNIST,N -body MNIST  | [Code](https://proceedings.neurips.cc/paper_files/paper/2022/file/a2affd71d15e8fedffe18d0219f4837a-Supplemental-Conference.zip) |
 | (Rainformer)Rainformer: Features Extraction Balanced Network for Radar-Based Precipitation Nowcasting[PDF](https://ieeexplore.ieee.org/document/9743916) | IEEE Geoscience and Remote Sensing Letters 2022 | KNMI | [Code](https://github.com/Zjut-MultimediaPlus/Rainformer?tab=readme-ov-file) |
+| (MetNet) MetNet: A Neural Weather Model for Precipitation Forecasting [PDF](https://arxiv.org/abs/2003.12140) | arXiv 2020 | - | - |
+| (ConvLSTM) Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting[PDF]() | NIPS 2015 | Moving MNIST | [Code](https://proceedings.neurips.cc/paper_files/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Supplemental.zip) |
