@@ -79,6 +79,13 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | HEAL-ViT: Vision Transformers on a spherical mesh for medium-range weather forecasting [PDF](https://arxiv.org/abs/2403.17016)|arXiv 2024|ERA5|-|
 | (PFformer) PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting[PDF](https://ieeexplore.ieee.org/abstract/document/10678751) | IEEE Access 2024 | https://rp5.ru/ | - |
 | (OMG-HD) OMG-HD: A high-resolution ai weather model for end-to-end forecasts from observations[PDF](https://arxiv.org/pdf/2412.18239) | arXiv 2024 | RTMA | - |
+| AIFS -- ECMWF's data-driven forecasting system [PDF](https://arxiv.org/abs/2406.01465)|arXiv 2024|ERA5|-|
+| (GraphDOP) GraphDOP: Towards skilful data-driven medium-range weather forecasts learnt and initialised directly from observations [PDF](https://www.arxiv.org/abs/2412.15687)|arXiv 2024|观测空间原始观测|-|
+| (WeatherODE) Mitigating Time Discretization Challenges with WeatherODE: A Sandwich Physics-Driven Neural ODE for Weather Forecasting [PDF](https://arxiv.org/abs/2410.06560)|arXiv 2024|ERA5|[CODE](https://github.com/DAMO-DI-ML/WeatherODE)|
+| (NeuralGCM) Neural general circulation models for weather and climate [PDF](https://www.nature.com/articles/s41586-024-07744-y)|Nature 2024|ERA5|[CODE](https://github.com/neuralgcm/neuralgcm)|
+| (Conformer) STC-ViT: Spatio Temporal Continuous Vision Transformer for Weather Forecasting [PDF](https://arxiv.org/abs/2402.17966)|arXiv 2024|ERA5|-|
+| (Prithvi WxC) Prithvi WxC: Foundation Model for Weather and Climate [PDF](https://arxiv.org/abs/2409.13598)|arXiv 2024|NASA MERRA-2、CORDEX-EUR-11、WeatherBench-2|[CODE](https://github.com/NASA-IMPACT/Prithvi-WxC)|
+| (AtmosArena) AtmosArena: Benchmarking Foundation Models for Atmospheric Sciences [PDF](https://openreview.net/forum?id=cUucUH9y0s)|NeurIPS 2024 Workshop FM4Science|ERA5|[CODE](https://github.com/tung-nd/atmos-arena?tab=readme-ov-file)|
 
 
 ### 2023
@@ -91,6 +98,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25105) | AAAI 2023 | ERA5 |-|
 | (Pangu-Weather) Accurate medium-range global weather forecasting with 3D neural networks[PDF](https://www.nature.com/articles/s41586-023-06185-3) | Nature 2023 | ERA5 | [CODE](https://github.com/198808xc/Pangu-Weather) |
 | (GraphCast) Graphcast: Learning skillful medium-range global weather forecasting[PDF](https://www.science.org/doi/10.1126/science.adi2336) | Science 2023 | ERA5 | [CODE](https://github.com/openclimatefix/graph_weather) |
+| (ClimaX) ClimaX: A foundation model for weather and climate [PDF](https://arxiv.org/abs/2301.10343)|ICML 2023|ERA5|[CODE](https://github.com/microsoft/ClimaX)|
+| W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting [PDF](https://arxiv.org/abs/2304.08754)|arXiv 2023|ERA5|[CODE](https://github.com/Gufrannn/W-MAE)|
 ### Earlier
 
 | Title | Venue | Dataset | CODE |
