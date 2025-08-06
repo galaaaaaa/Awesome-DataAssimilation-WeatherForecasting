@@ -89,7 +89,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (ω-GNN) Coupling Physical Factors for Precipitation Forecast in China With Graph Neural Network [PDF](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106676) | AGU 2024 | ERA5、CMPA | - |
 | (WeatherGNN) WeatherGNN: Exploiting Meteo- and Spatial-Dependencies for Local Numerical Weather Prediction Bias-Correction[PDF](https://www.ijcai.org/proceedings/2024/0269.pdf) | IJCAI 2024 | Ningbo、Ningxia | - |
 | (MPNNs) Multi-modal graph neural networks for localized off-grid weather forecasting [PDF1](https://arxiv.org/abs/2410.12938) [PDF2](https://openreview.net/pdf?id=CN328Aw03P) | arXiv 2024 | ERA5、MADIS | [Code](https://github.com/Earth-Intelligence-Lab/LocalizedWeatherGNN/) |
-
+| (MetMamba) MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model[PDF](https://arxiv.org/abs/2408.06400) | arXiv 2024 | ERA5 | - |
+| (MambaDS) MambaDS: Near-Surface Meteorological Field Downscaling With Topography Constrained Selective State-Space Modeling[PDF](https://arxiv.org/abs/2408.10854#:~:text=In%20this%20paper%2C%20we%20address%20these%20limitations%20by,downscaling%20and%20propose%20a%20novel%20model%20called%20MambaDS.) | IEEE Transactions on Geoscience and Remote Sensing 2024 | ERA5 | - |
+| (DeepPhysiNet) DeepPhysiNet: Bridging Deep Learning and Atmospheric Physics for Accurate and Continuous Weather Modeling[PDF](https://arxiv.org/abs/2401.04125) | arXiv 2024 | NCEP IFS、ERA5、Weather2K | [Code](https://github.com/flyakon/DeepPhysiNet) |
 
 ### 2023
 
@@ -107,6 +109,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (MetNet-3) Deep Learning for Day Forecasts from Sparse Observations[PDF](https://arxiv.org/abs/2306.06079) | arXiv 2023 | - | - |
 | (PredRNN) PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning[PDF](https://ieeexplore.ieee.org/abstract/document/9749915) | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 2023 | Moving MNIST、KTH | [Code](https://github.com/thuml/predrnn-pytorch) |
 | (MM-RNN) MM-RNN: A Multimodal RNN for Precipitation Nowcasting[PDF](https://ieeexplore.ieee.org/abstract/document/10092888) | IEEE Transactions on Geoscience and Remote Sensing 2023 | MeteoNet、RAIN-F | - |
+| (NowcastNet) Skilful nowcasting of extreme precipitation with NowcastNet[PDF](https://www.nature.com/articles/s41586-023-06184-4) | Nature 2023 | MRMS | [Code](https://codeocean.com/capsule/3935105/tree/v1) |
 
 
 
@@ -120,3 +123,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (Rainformer)Rainformer: Features Extraction Balanced Network for Radar-Based Precipitation Nowcasting[PDF](https://ieeexplore.ieee.org/document/9743916) | IEEE Geoscience and Remote Sensing Letters 2022 | KNMI | [Code](https://github.com/Zjut-MultimediaPlus/Rainformer?tab=readme-ov-file) |
 | (MetNet) MetNet: A Neural Weather Model for Precipitation Forecasting [PDF](https://arxiv.org/abs/2003.12140) | arXiv 2020 | - | - |
 | (ConvLSTM) Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting[PDF]() | NIPS 2015 | Moving MNIST | [Code](https://proceedings.neurips.cc/paper_files/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Supplemental.zip) |
+| (PhysDL) Deep learning for physical processes: incorporating prior scientific knowledge[PDF](https://arxiv.org/abs/1711.07970) | IOPScience 2019 | NEMO | - |
+| (PhyDNet) Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.html) | CVPR 2020 | MovingMNIST、TrafficBJ、Sea Surface Temperature、Human3.6 | [Code](https://github.com/vincent-leguen/PhyDNet) |
+
+
+
