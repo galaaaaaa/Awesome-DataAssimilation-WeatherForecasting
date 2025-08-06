@@ -86,6 +86,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (Conformer) STC-ViT: Spatio Temporal Continuous Vision Transformer for Weather Forecasting [PDF](https://arxiv.org/abs/2402.17966)|arXiv 2024|ERA5|-|
 | (Prithvi WxC) Prithvi WxC: Foundation Model for Weather and Climate [PDF](https://arxiv.org/abs/2409.13598)|arXiv 2024|NASA MERRA-2、CORDEX-EUR-11、WeatherBench-2|[CODE](https://github.com/NASA-IMPACT/Prithvi-WxC)|
 | (AtmosArena) AtmosArena: Benchmarking Foundation Models for Atmospheric Sciences [PDF](https://openreview.net/forum?id=cUucUH9y0s)|NeurIPS 2024 Workshop FM4Science|ERA5|[CODE](https://github.com/tung-nd/atmos-arena?tab=readme-ov-file)|
+| (ω-GNN) Coupling Physical Factors for Precipitation Forecast in China With Graph Neural Network [PDF](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106676) | AGU 2024 | ERA5、CMPA | - |
+| (WeatherGNN) WeatherGNN: Exploiting Meteo- and Spatial-Dependencies for Local Numerical Weather Prediction Bias-Correction[PDF](https://www.ijcai.org/proceedings/2024/0269.pdf) | IJCAI 2024 | Ningbo、Ningxia | - |
+| (MPNNs) Multi-modal graph neural networks for localized off-grid weather forecasting [PDF1](https://arxiv.org/abs/2410.12938) [PDF2](https://openreview.net/pdf?id=CN328Aw03P) | arXiv 2024 | ERA5、MADIS | [Code](https://github.com/Earth-Intelligence-Lab/LocalizedWeatherGNN/) |
 
 
 ### 2023
@@ -100,6 +103,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (GraphCast) Graphcast: Learning skillful medium-range global weather forecasting[PDF](https://www.science.org/doi/10.1126/science.adi2336) | Science 2023 | ERA5 | [CODE](https://github.com/openclimatefix/graph_weather) |
 | (ClimaX) ClimaX: A foundation model for weather and climate [PDF](https://arxiv.org/abs/2301.10343)|ICML 2023|ERA5|[CODE](https://github.com/microsoft/ClimaX)|
 | W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting [PDF](https://arxiv.org/abs/2304.08754)|arXiv 2023|ERA5|[CODE](https://github.com/Gufrannn/W-MAE)|
+| (HiSTGNN) HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting Information[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011659) | Information Sciences 2023 | WD | [Code](https://github.com/mb-Ma/HiSTGNN) |
+
+
 ### Earlier
 
 | Title | Venue | Dataset | CODE |
