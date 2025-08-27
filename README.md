@@ -92,7 +92,13 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (MetMamba) MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model[PDF](https://arxiv.org/abs/2408.06400) | arXiv 2024 | ERA5 | - |
 | (MambaDS) MambaDS: Near-Surface Meteorological Field Downscaling With Topography Constrained Selective State-Space Modeling[PDF](https://arxiv.org/abs/2408.10854#:~:text=In%20this%20paper%2C%20we%20address%20these%20limitations%20by,downscaling%20and%20propose%20a%20novel%20model%20called%20MambaDS.) | IEEE Transactions on Geoscience and Remote Sensing 2024 | ERA5 | - |
 | (DeepPhysiNet) DeepPhysiNet: Bridging Deep Learning and Atmospheric Physics for Accurate and Continuous Weather Modeling[PDF](https://arxiv.org/abs/2401.04125) | arXiv 2024 | NCEP IFS、ERA5、Weather2K | [Code](https://github.com/flyakon/DeepPhysiNet) |
-
+| [CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling](https://arxiv.org/abs/2402.04290) | ICML 2024 | - | [Code](https://github.com/OpenEarthLab/CasCast) |
+| [SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model](https://arxiv.org/abs/2402.13737) | arXiv 2024 | - | [Code](https://github.com/ybu-lxd/SRNDiff) |
+| [DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.html) | CVPR 2024 | - | [Code](https://github.com/DeminYu98/DiffCast) |
+| [CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification](https://arxiv.org/abs/2409.05975) | arXiv 2024 | - | [Code](https://github.com/JimengShi/CoDiCast) |
+| [Continuous Ensemble Weather Forecasting with Diffusion models](https://arxiv.org/abs/2410.05431) | arXiv 2024 | - | [Code](https://github.com/martinandrae/Continuous-Ensemble-Forecasting) |
+| [GenCast: Diffusion-based ensemble forecasting for medium-range weather](https://www.nature.com/articles/s41586-024-08252-9) | Nature 2024 | - | [Code](https://github.com/google-deepmind/graphcast) |
+| [SEEDs: Emulation of Weather Forecast Ensembles with Diffusion Models](https://www.science.org/doi/10.1126/sciadv.adk4489) | Science Advances 2024 | - | [Code](https://github.com/google-research/google-research/tree/master/seeds) |
 ### 2023
 
 | Title | Venue | Dataset | CODE |
@@ -111,6 +117,11 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (MM-RNN) MM-RNN: A Multimodal RNN for Precipitation Nowcasting[PDF](https://ieeexplore.ieee.org/abstract/document/10092888) | IEEE Transactions on Geoscience and Remote Sensing 2023 | MeteoNet、RAIN-F | - |
 | (NowcastNet) Skilful nowcasting of extreme precipitation with NowcastNet[PDF](https://www.nature.com/articles/s41586-023-06184-4) | Nature 2023 | MRMS | [Code](https://codeocean.com/capsule/3935105/tree/v1) |
 
+| [Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification](https://arxiv.org/abs/2304.12891) | arXiv 2023 | - | [Code](https://github.com/MeteoSwiss/ldcast) |
+| [PreDiff: Precipitation Nowcasting with Latent Diffusion Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f82ba6a6b981fbbecf5f2ee5de7db39c-Abstract-Conference.html) | NeurIPS 2023 | - | [Code](https://proceedings.neurips.cc/paper_files/paper/2023/file/f82ba6a6b981fbbecf5f2ee5de7db39c-Supplemental-Conference.zip) |
+| [Precipitation nowcasting with generative diffusion models](https://arxiv.org/abs/2308.06733) | arXiv 2023 | - | [Code](https://github.com/fmerizzi/Precipitation-nowcasting-with-generative-diffusion-models) |
+| [STGM: Physical-Dynamic-Driven AI-Synthetic Precipitation Nowcasting Using Task-Segmented Generative Model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106084) | AGU 2023 | - | [Code](https://zenodo.org/records/8380856) |
+| [PCT-CycleGAN: Paired Complementary Temporal Cycle-Consistent Adversarial Networks for Radar-Based Precipitation Nowcasting](https://dl.acm.org/doi/abs/10.1145/3583780.3615006) | ACM 2023 | - | - |
 
 
 ### Earlier
@@ -125,6 +136,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (ConvLSTM) Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting[PDF]() | NIPS 2015 | Moving MNIST | [Code](https://proceedings.neurips.cc/paper_files/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Supplemental.zip) |
 | (PhysDL) Deep learning for physical processes: incorporating prior scientific knowledge[PDF](https://arxiv.org/abs/1711.07970) | IOPScience 2019 | NEMO | - |
 | (PhyDNet) Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.html) | CVPR 2020 | MovingMNIST、TrafficBJ、Sea Surface Temperature、Human3.6 | [Code](https://github.com/vincent-leguen/PhyDNet) |
+| [GANRain: Skillful precipitation nowcasting using deep generative models of radar](https://www.nature.com/articles/s41586-021-03854-z) | Nature 2021 | - | [Code](https://github.com/openclimatefix/skillful_nowcasting) |
+| [MultiScaleGAN: Experimental Study on Generative Adversarial Network for Precipitation Nowcasting](https://ieeexplore.ieee.org/abstract/document/9780397) | IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2022 | - | [Code](https://github.com/luochuyao/MultiScaleGAN) |
 
 
 
