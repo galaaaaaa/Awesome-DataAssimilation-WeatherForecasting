@@ -30,6 +30,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales [PDF](https://arxiv.org/abs/2406.16947)|JAMES 2024|HRRR、ISD|-|
 | FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation [PDF](https://arxiv.org/abs/2312.12455) | ICML 2024 | ERA5  | [Code](https://github.com/OpenEarthLab/FengWu-4DVar) |
 | (U-STN) Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based u-net in a case study with EAR5[PDF](https://gmd.copernicus.org/articles/15/2221/2022/) | Geoscientific Model Development 2024 | ERA5 | [Code](https://zenodo.org/records/6112374) |
+| (Slam) Deep Generative Data Assimilation in Multimodal Setting[PDF](https://arxiv.org/abs/2404.06665) | CVPR EarthVision 2024 | ERA5 | [Code](https://github.com/YONGQUAN-QU/SLAMS?tab=readme-ov-file) |
 
 ### 2023
 
