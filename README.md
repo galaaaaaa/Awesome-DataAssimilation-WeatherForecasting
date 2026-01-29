@@ -18,7 +18,13 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Deep Bayesian Filter for Bayes-faithful Data Assimilation [PDF](https://arxiv.org/abs/2405.18674)|ICML 2025|moving MNIST、double pendulum、Lorenz96| - |
 | Tensor-Var: Efficient Four-Dimensional Variational Data Assimilation [PDF](https://arxiv.org/abs/2501.13312)|ICML 2025|WeatherBench2|[Code](https://github.com/yyimingucl/TensorVar)|
 | FuXi-DA: a generalized deep learning data assimilation framework for assimilating satellite observations [PDF](https://www.nature.com/articles/s41612-025-01039-3)|nature npj 2025|ERA5|[CODE](https://github.com/xuxiaoze/FuXi-DA)|
-
+| GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance [PDF](https://arxiv.org/pdf/2601.11440)|arxiv|ERA5| - |
+| DAMBench: A Multi-Modal Benchmark for Deep Learning-based Atmospheric Data Assimilation [PDF](https://arxiv.org/pdf/2511.01468)|arxiv|ERA5|[CODE]( https://github.com/figerhaowang/DAMBench)|
+| LO-SDA: Latent Optimization for Score-based Atmospheric Data Assimilation [PDF](https://arxiv.org/pdf/2510.22562)|arxiv|ERA5| - |
+| Diffusion-Based Probabilistic Modeling for Hourly Streamflow Prediction and Assimilation [PDF](https://arxiv.org/pdf/2510.08488)|arxiv|CAMELS-US| - |
+| Control-Augmented Autoregressive Diffusion for Data Assimilation [PDF](https://arxiv.org/pdf/2510.06637)|arxiv|ERA5,1D Kuramoto-Sivashinsky (KS) Equation,2D Kolmogorov Flow| - |
+| Diffusion-Based, Data-Assimilation-Enabled Super-Resolution of Hub-height Winds [PDF](https://arxiv.org/pdf/2510.03364)|arxiv|WTK| - |
+| Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences [PDF](https://arxiv.org/pdf/2505.22008)|neurips|ERA5| - |
 
 ### 2024
 
