@@ -22,9 +22,12 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | DAMBench: A Multi-Modal Benchmark for Deep Learning-based Atmospheric Data Assimilation [PDF](https://arxiv.org/pdf/2511.01468)|arxiv|ERA5|[CODE]( https://github.com/figerhaowang/DAMBench)|
 | LO-SDA: Latent Optimization for Score-based Atmospheric Data Assimilation [PDF](https://arxiv.org/pdf/2510.22562)|arxiv|ERA5| - |
 | Diffusion-Based Probabilistic Modeling for Hourly Streamflow Prediction and Assimilation [PDF](https://arxiv.org/pdf/2510.08488)|arxiv|CAMELS-US| - |
-| Control-Augmented Autoregressive Diffusion for Data Assimilation [PDF](https://arxiv.org/pdf/2510.06637)|arxiv|ERA5,1D Kuramoto-Sivashinsky (KS) Equation,2D Kolmogorov Flow| - |
+| Control-Augmented Autoregressive Diffusion for Data Assimilation [PDF](https://arxiv.org/pdf/2510.06637)|NeurIPS 2025 AI for Science Workshop|ERA5,1D Kuramoto-Sivashinsky (KS) Equation,2D Kolmogorov Flow| - |
 | Diffusion-Based, Data-Assimilation-Enabled Super-Resolution of Hub-height Winds [PDF](https://arxiv.org/pdf/2510.03364)|arxiv|WTK| - |
-| Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences [PDF](https://arxiv.org/pdf/2505.22008)|neurips|ERA5| - |
+| Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences [PDF](https://arxiv.org/pdf/2505.22008)|NeurIPS 2025|ERA5| - |
+| Training-Free Data Assimilation with GenCast [PDF](https://arxiv.org/abs/2509.18811)|NeurIPS 2025|ERA5| - |
+| Appa: Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation [PDF](https://arxiv.org/pdf/2504.18720)|NeurIPS 2025|ERA5| - |
+
 
 ### 2024
 
