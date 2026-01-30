@@ -91,7 +91,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Deep Learning and Foundation Models for Weather Prediction: A Survey[PDF](https://arxiv.org/pdf/2501.06907v1) | ArXiv | WeatherBench、WeatherBench 2、Weather2K、Weather5K  | [Code](https://github.com/JimengShi/DL-Foundation-Models-Weather) |
 | FuXi-RTM: A Physics-Guided Prediction Framework with Radiative Transfer Modeling[PDF](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_FuXi-RTM_A_Physics-Guided_Prediction_Framework_with_Radiative_Transfer_Modeling_ICCV_2025_paper.html) | ICCV 2025 | ERA5  | - |
 | How to systematically develop an effective AI-based bias correction model?[PDF](https://arxiv.org/abs/2504.15322) | ArXiv | ECMWF 季节预报数据、ERA5  | - |
-
+| Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging[PDF](https://journals.ametsoc.org/view/journals/wefo/40/9/WAF-D-24-0139.1.xml?tab_body=pdf) | AMS：Weather and Forecasting | GEM 模型输出数据，GraphCast 模型 输出数据  | [Code](https://github.com/ECCC-ASTD-MRD/gem/commits/5.3-branch/) |
+| PostCast: Generalizable Postprocessing for Precipitation Nowcasting via Unsupervised Blurriness Modeling[PDF](https://openreview.net/forum?id=v2zcCDYMok) | ICLR 2025 | SEVIR,HKO7,TAASRAD19,SRAD2018  | [Code](https://github.com/jasong-ovo/PostCast.) |
+| Self-attentive Transformer for Fast and Accurate Postprocessing of Temperature and Wind Speed Forecasts[PDF](https://journals.ametsoc.org/view/journals/aies/4/3/AIES-D-24-0127.1.xml) | AMS：Artificial Intelligence for the Earth System | EUPPBench[Data](https://github.com/EUPP-benchmark/climetlab-eumetnet-postprocessing-benchmark)   | [Code](https://github.com/UAntwerpM4S/PP_EUPP) |
 ### 2024
 
 | Title | Venue | Dataset | CODE |
@@ -163,6 +165,6 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | (PhyDNet) Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.html) | CVPR 2020 | MovingMNIST、TrafficBJ、Sea Surface Temperature、Human3.6 | [Code](https://github.com/vincent-leguen/PhyDNet) |
 | GANRain: Skillful precipitation nowcasting using deep generative models of radar[PDF](https://www.nature.com/articles/s41586-021-03854-z) | Nature 2021 | - | [Code](https://github.com/openclimatefix/skillful_nowcasting) |
 | MultiScaleGAN: Experimental Study on Generative Adversarial Network for Precipitation Nowcasting[PDF](https://ieeexplore.ieee.org/abstract/document/9780397) | IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2022 | - | [Code](https://github.com/luochuyao/MultiScaleGAN) |
-
+| Skilful precipitation nowcasting using deep generative models of radar[PDF](https://www.nature.com/articles/s41586-021-03854-z) | Nature | NOAA雷达数据集 | [Code](https://github.com/deepmind/deepmind-research/tree/master/nowcasting) |
 
 
