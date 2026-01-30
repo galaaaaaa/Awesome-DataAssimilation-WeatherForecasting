@@ -27,6 +27,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences [PDF](https://arxiv.org/pdf/2505.22008)|NeurIPS 2025|ERA5| - |
 | Training-Free Data Assimilation with GenCast [PDF](https://arxiv.org/abs/2509.18811)|NeurIPS 2025|ERA5| - |
 | Appa: Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation [PDF](https://arxiv.org/pdf/2504.18720)|NeurIPS 2025|ERA5| - |
+| A data-to-forecast machine learning system for global weather [PDF](https://www.nature.com/articles/s41467-025-62024-)|Nature 2025|ERA5,风云三号 E（FY-3E，搭载 MWTS/MWHS 仪器）,Metop-C（搭载 AMSUA/MHS 仪器）,NOAA-20（搭载 ATMS 仪器）,HRES| - |
 | LoRA-EnVar: Parameter-Efficient Hybrid Ensemble Variational Assimilation for Weather Forecasting [PDF](https://neurips.cc/virtual/2025/loc/mexico-city/poster/115029) | NeurIPS 2025 | ERA5 | [Code](https://github.com/xiaoyi018/AI-VarDA) |
 
 
@@ -87,7 +88,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | The operational medium-range deterministic weather forecasting can be extended beyond a 10-day lead time[PDF](https://www.nature.com/articles/s43247-025-02502-y) | Nature | ERA5 | [Code](https://github.com/OpenEarthLab/FengWu) |
 | (TianXing) linear complexity transformer model with explicit attention decay for global weather forecasting[PDF](https://link.springer.com/article/10.1007/s00376-024-3313-9) | Advances in Atmospheric Sciences | ERA5 |-|
 | Local Off-Grid Weather Forecasting With Multi-Modal Earth Observation Data [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025MS005207) | AGU 2025 | [Download](https://zenodo.org/records/15346612) | [Code](https://github.com/Earth-Intelligence-Lab/LocalizedWeather/) |
-
+| Deep Learning and Foundation Models for Weather Prediction: A Survey[PDF](https://arxiv.org/pdf/2501.06907v1) | ArXiv | WeatherBench、WeatherBench 2、Weather2K、Weather5K  | [Code](https://github.com/JimengShi/DL-Foundation-Models-Weather) |
+| FuXi-RTM: A Physics-Guided Prediction Framework with Radiative Transfer Modeling[PDF](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_FuXi-RTM_A_Physics-Guided_Prediction_Framework_with_Radiative_Transfer_Modeling_ICCV_2025_paper.html) | ICCV 2025 | ERA5  | - |
+| How to systematically develop an effective AI-based bias correction model?[PDF](https://arxiv.org/abs/2504.15322) | ArXiv | ECMWF 季节预报数据、ERA5  | - |
 
 ### 2024
 
