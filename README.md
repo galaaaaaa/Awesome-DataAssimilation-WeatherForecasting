@@ -27,6 +27,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences [PDF](https://arxiv.org/pdf/2505.22008)|NeurIPS 2025|ERA5| - |
 | Training-Free Data Assimilation with GenCast [PDF](https://arxiv.org/abs/2509.18811)|NeurIPS 2025|ERA5| - |
 | Appa: Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation [PDF](https://arxiv.org/pdf/2504.18720)|NeurIPS 2025|ERA5| - |
+| LoRA-EnVar: Parameter-Efficient Hybrid Ensemble Variational Assimilation for Weather Forecasting [PDF](https://neurips.cc/virtual/2025/loc/mexico-city/poster/115029) | NeurIPS 2025 | ERA5 | [Code](https://github.com/xiaoyi018/AI-VarDA) |
 
 
 ### 2024
@@ -40,6 +41,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation [PDF](https://arxiv.org/abs/2312.12455) | ICML 2024 | ERA5  | [Code](https://github.com/OpenEarthLab/FengWu-4DVar) |
 | (U-STN) Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based u-net in a case study with EAR5[PDF](https://gmd.copernicus.org/articles/15/2221/2022/) | Geoscientific Model Development 2024 | ERA5 | [Code](https://zenodo.org/records/6112374) |
 | (Slam) Deep Generative Data Assimilation in Multimodal Setting[PDF](https://arxiv.org/abs/2404.06665) | CVPR EarthVision 2024 | ERA5 | [Code](https://github.com/YONGQUAN-QU/SLAMS?tab=readme-ov-file) |
+
 
 ### 2023
 
@@ -59,7 +61,15 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Completing physics-based models by learning hidden dynamics through data assimilation [PDF](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_30.pdf) | NIPS 2020 | - | - |
 | Towards physically consistent data-driven weather forecasting: Integrating data assimilation with equivariance-preserving deep spatial transformers [PDF](https://gmd.copernicus.org/articles/15/2221/2022/gmd-15-2221-2022.pdf) | Geoscientific Model Development(2022) | ERA5 | [Code](https://github.com/ashesh6810/DDWP-DA) |
 
+
 ## Weather Forecasting
+### 2026
+| Title | Venue | Dataset | CODE |
+|:-------|:-------:|:---------:|:------:|
+| Demystifying Data-Driven Probabilistic Medium-Range Weather Forecasting [PDF](https://arxiv.org/abs/2601.18111) | arXiv 2026 | ERA5 | - |
+| Rapid estimation of global sea surface temperatures from sparse streaming in situ observations [PDF](https://arxiv.org/pdf/2601.21913) | arXiv 2026 | [NOAA SST](https://www.ncei.noaa.gov/products/optimum-interpolation-sst) | - |
+| Learning to Advect: A Neural Semi-Lagrangian Architecture for Weather Forecasting [PDF](https://arxiv.org/pdf/2601.21151) | arXiv 2026 | ERA5 | [Code](https://github.com/Wx-Alliance-Alliance-Meteo/paradis_model) |
+
 
 ### 2025
 
@@ -76,6 +86,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | End-to-end data-driven weather prediction[PDF](https://www.nature.com/articles/s41586-025-08897-0) | Nature | ERA5 | [Code](https://github.com/annavaughan/aardvark-weather-public) |
 | The operational medium-range deterministic weather forecasting can be extended beyond a 10-day lead time[PDF](https://www.nature.com/articles/s43247-025-02502-y) | Nature | ERA5 | [Code](https://github.com/OpenEarthLab/FengWu) |
 | (TianXing) linear complexity transformer model with explicit attention decay for global weather forecasting[PDF](https://link.springer.com/article/10.1007/s00376-024-3313-9) | Advances in Atmospheric Sciences | ERA5 |-|
+| Local Off-Grid Weather Forecasting With Multi-Modal Earth Observation Data [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025MS005207) | AGU 2025 | [Download](https://zenodo.org/records/15346612) | [Code](https://github.com/Earth-Intelligence-Lab/LocalizedWeather/) |
 
 
 ### 2024
@@ -109,6 +120,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Continuous Ensemble Weather Forecasting with Diffusion models[PDF](https://arxiv.org/abs/2410.05431) | arXiv 2024 | - | [Code](https://github.com/martinandrae/Continuous-Ensemble-Forecasting) |
 | GenCast: Diffusion-based ensemble forecasting for medium-range weather[PDF](https://www.nature.com/articles/s41586-024-08252-9) | Nature 2024 | - | [Code](https://github.com/google-deepmind/graphcast) |
 | SEEDs: Emulation of Weather Forecast Ensembles with Diffusion Models[PDF](https://www.science.org/doi/10.1126/sciadv.adk4489) | Science Advances 2024 | - | [Code](https://github.com/google-research/google-research/tree/master/seeds) |
+| Probabilistic Weather Forecasting with Hierarchical Graph Neural Networks [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/492592890311679d7f71559148358973-Abstract-Conference.html) | NeurIPS 2024 | ERA5、MEPS | [Code1](https://github.com/mllam/neural-lam/tree/prob_model_global) [Code2](https://github.com/mllam/neural-lam/tree/prob_model_lam) |
 
 
 ### 2023
