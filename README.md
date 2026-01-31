@@ -24,7 +24,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Diffusion-Based Probabilistic Modeling for Hourly Streamflow Prediction and Assimilation [PDF](https://arxiv.org/pdf/2510.08488)|arxiv|CAMELS-US| - |
 | Control-Augmented Autoregressive Diffusion for Data Assimilation [PDF](https://arxiv.org/pdf/2510.06637)|NeurIPS 2025 AI for Science Workshop|ERA5,1D Kuramoto-Sivashinsky (KS) Equation,2D Kolmogorov Flow| - |
 | Diffusion-Based, Data-Assimilation-Enabled Super-Resolution of Hub-height Winds [PDF](https://arxiv.org/pdf/2510.03364)|arxiv|WTK| - |
-| Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences [PDF](https://arxiv.org/pdf/2505.22008)|NeurIPS 2025|ERA5| - |
+| Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences [PDF](https://arxiv.org/pdf/2505.22008)|NeurIPS 2025|ERA5| [Code](https://montefiore-sail.github.io/appa/)  |
 | Training-Free Data Assimilation with GenCast [PDF](https://arxiv.org/abs/2509.18811)|NeurIPS 2025|ERA5| - |
 | Appa: Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation [PDF](https://arxiv.org/pdf/2504.18720)|NeurIPS 2025|ERA5| - |
 | A data-to-forecast machine learning system for global weather [PDF](https://www.nature.com/articles/s41467-025-62024-)|Nature 2025|ERA5,风云三号 E（FY-3E，搭载 MWTS/MWHS 仪器）,Metop-C（搭载 AMSUA/MHS 仪器）,NOAA-20（搭载 ATMS 仪器）,HRES| - |
