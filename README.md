@@ -70,6 +70,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Demystifying Data-Driven Probabilistic Medium-Range Weather Forecasting [PDF](https://arxiv.org/abs/2601.18111) | arXiv 2026 | ERA5 | - |
 | Rapid estimation of global sea surface temperatures from sparse streaming in situ observations [PDF](https://arxiv.org/pdf/2601.21913) | arXiv 2026 | [NOAA SST](https://www.ncei.noaa.gov/products/optimum-interpolation-sst) | - |
 | Learning to Advect: A Neural Semi-Lagrangian Architecture for Weather Forecasting [PDF](https://arxiv.org/pdf/2601.21151) | arXiv 2026 | ERA5 | [Code](https://github.com/Wx-Alliance-Alliance-Meteo/paradis_model) |
+| Searth Transformer: A Transformer Architecture Incorporating Earth's Geospheric Physical Priors for Global Mid-Range Weather Forecasting [PDF](https://arxiv.org/abs/2601.09467) | arXiv 2026 | ERA5 | - |
 
 
 ### 2025
