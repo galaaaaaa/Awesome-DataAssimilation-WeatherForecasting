@@ -71,8 +71,9 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Rapid estimation of global sea surface temperatures from sparse streaming in situ observations [PDF](https://arxiv.org/pdf/2601.21913) | arXiv 2026 | [NOAA SST](https://www.ncei.noaa.gov/products/optimum-interpolation-sst) | - |
 | Learning to Advect: A Neural Semi-Lagrangian Architecture for Weather Forecasting [PDF](https://arxiv.org/pdf/2601.21151) | arXiv 2026 | ERA5 | [Code](https://github.com/Wx-Alliance-Alliance-Meteo/paradis_model) |
 | Searth Transformer: A Transformer Architecture Incorporating Earth's Geospheric Physical Priors for Global Mid-Range Weather Forecasting [PDF](https://arxiv.org/abs/2601.09467) | arXiv 2026 | ERA5 | - |
-
-
+| Omni-Weather: A Unified Multimodal Model for Weather Radar Understanding and Generation [PDF](https://openreview.net/forum?id=3WnXsp72v6) | ICLR 2026 | SEVIR、RadarQA | [Code](https://github.com/Zhouzone/OmniWeather) |
+| WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling [PDF](https://arxiv.org/abs/2602.03924) | arXiv 2026 | ERA5 | [Code](https://github.com/ml-jku/wind.) |
+| A super-resolution framework for downscaling machine learning weather prediction toward 1-km air temperature [PDF](https://www.nature.com/articles/s41612-026-01328-5) | npj 2026 | ERA5、WeatherBench 2 | - |
 ### 2025
 
 | Title | Venue | Dataset | CODE |
