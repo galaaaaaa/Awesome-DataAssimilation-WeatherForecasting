@@ -74,6 +74,8 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | Omni-Weather: A Unified Multimodal Model for Weather Radar Understanding and Generation [PDF](https://openreview.net/forum?id=3WnXsp72v6) | ICLR 2026 | SEVIR、RadarQA | [Code](https://github.com/Zhouzone/OmniWeather) |
 | WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling [PDF](https://arxiv.org/abs/2602.03924) | arXiv 2026 | ERA5 | [Code](https://github.com/ml-jku/wind.) |
 | A super-resolution framework for downscaling machine learning weather prediction toward 1-km air temperature [PDF](https://www.nature.com/articles/s41612-026-01328-5) | npj 2026 | ERA5、WeatherBench 2 | - |
+| TransNet: a transport-informed graph neural network for forecasting PM2.5 concentrations across South Korea [PDF](https://www.nature.com/articles/s44407-026-00052-x) | npj Clean Air 2026 | AirKorea 数据库 | [Code](https://github.com/rijul01/TransNet) |
+| STCast: Adaptive Boundary Alignment for Global and Regional Weather Forecasting [PDF](https://arxiv.org/abs/2509.25210) | CVPR 2026 | ERA5、IBTrACS | - |
 ### 2025
 
 | Title | Venue | Dataset | CODE |
