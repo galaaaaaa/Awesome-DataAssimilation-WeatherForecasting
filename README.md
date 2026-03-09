@@ -76,6 +76,7 @@ papers and codes on data assimilation and weather forecasting based on AI method
 | A super-resolution framework for downscaling machine learning weather prediction toward 1-km air temperature [PDF](https://www.nature.com/articles/s41612-026-01328-5) | npj 2026 | ERA5、WeatherBench 2 | - |
 | TransNet: a transport-informed graph neural network for forecasting PM2.5 concentrations across South Korea [PDF](https://www.nature.com/articles/s44407-026-00052-x) | npj Clean Air 2026 | AirKorea 数据库 | [Code](https://github.com/rijul01/TransNet) |
 | STCast: Adaptive Boundary Alignment for Global and Regional Weather Forecasting [PDF](https://arxiv.org/abs/2509.25210) | CVPR 2026 | ERA5、IBTrACS | - |
+| WxC-Bench: A Novel Dataset for Weather and Climate Downstream Tasks[PDF](https://www.nature.com/articles/s41597-026-06839-7) | scientific data | - | [Code](https://github.com/NASA-IMPACT/WxC-Bench) |
 ### 2025
 
 | Title | Venue | Dataset | CODE |
